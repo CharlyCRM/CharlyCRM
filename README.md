@@ -10,4 +10,4 @@ Soy un apasionado desarrollador junior con un sólido interés en la ciencia de 
 
 Si estás buscando a alguien que aporte energía, una perspectiva fresca y una actitud positiva a tus repositorios, estaré encantado de ser parte. ¡Vamos a conectar y explorar cómo puedo contribuir al éxito de tus proyectos!
 
-🚀 Siempre buscando oportunidades para crecer y listo para contribuir significativamente a proyectos ambiciosos y dinámicos. 👍👍
+🚀 Siempre buscando oportunidades para crecer y listo para contribuir significativamente a proyectos ambiciosos y dinámicos.
