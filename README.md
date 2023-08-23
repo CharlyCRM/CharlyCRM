@@ -11,3 +11,31 @@ Soy un apasionado desarrollador junior con un sólido interés en la ciencia de 
 Si estás buscando a alguien que aporte energía, una perspectiva fresca y una actitud positiva a tus repositorios, estaré encantado de ser parte. ¡Vamos a conectar y explorar cómo puedo contribuir al éxito de tus proyectos!
 
 🚀 Siempre buscando oportunidades para crecer y listo para contribuir significativamente a proyectos ambiciosos y dinámicos.
+
+### Habilidades y Herramientas
+
+#### Lenguajes de Programación
+![Python](https://img.shields.io/badge/-Python-blue)
+![C](https://img.shields.io/badge/-C-blue)
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![Bash](https://img.shields.io/badge/-Bash-green)
+
+#### Herramientas y Entornos
+![Git](https://img.shields.io/badge/-Git-black)
+![Docker](https://img.shields.io/badge/-Docker-blue)
+![Anaconda](https://img.shields.io/badge/-Anaconda-green)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange)
+![Jupyter Labs](https://img.shields.io/badge/-Jupyter%20Labs-lightgrey)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue)
+![PyCharm](https://img.shields.io/badge/-PyCharm-orange)
+![Vim](https://img.shields.io/badge/-Vim-brightgreen)
+
+### Soft Skills
+![Comunicación](https://img.shields.io/badge/-Comunicaci%C3%B3n-brightgreen)
+![Adaptabilidad](https://img.shields.io/badge/-Adaptabilidad-yellowgreen)
+![Resolución de Problemas](https://img.shields.io/badge/-Resoluci%C3%B3n%20de%20Problemas-yellow)
+![Iniciativa](https://img.shields.io/badge/-Iniciativa-orange)
+![Pensamiento Analítico](https://img.shields.io/badge/-Pensamiento%20Anal%C3%ADtico-red)
+![Colaboración](https://img.shields.io/badge/-Colaboraci%C3%B3n-blue)
+![Proactividad](https://img.shields.io/badge/-Proactividad%C3%B3n-brightgreen)
+![Resiliencia](https://img.shields.io/badge/-Resiliencia-lightgrey)
