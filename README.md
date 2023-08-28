@@ -12,15 +12,18 @@ Si estás buscando a alguien que aporte energía, una perspectiva fresca y una a
 
 🚀 Siempre buscando oportunidades para crecer y listo para contribuir significativamente a proyectos ambiciosos y dinámicos.
 
+
+
 ### Habilidades y Herramientas
 
-#### Lenguajes de Programación
+#### Lenguajes de Programación:
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![C](https://img.shields.io/badge/-C-red)
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![Bash](https://img.shields.io/badge/-Bash-green)
+---
 
-#### Herramientas y Entornos
+#### Herramientas y Entornos:
 ![Git](https://img.shields.io/badge/-Git-black)
 ![Docker](https://img.shields.io/badge/-Docker-lightblue)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-green)
@@ -30,8 +33,9 @@ Si estás buscando a alguien que aporte energía, una perspectiva fresca y una a
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-purple)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-orange)
 ![Vim](https://img.shields.io/badge/-Vim-brightgreen)
+---
 
-### Soft Skills
+### Soft Skills:
 ![Comunicación](https://img.shields.io/badge/-Comunicaci%C3%B3n-brightgreen)
 ![Adaptabilidad](https://img.shields.io/badge/-Adaptabilidad-yellowgreen)
 ![Resolución de Problemas](https://img.shields.io/badge/-Resoluci%C3%B3n%20de%20Problemas-yellow)
@@ -40,3 +44,4 @@ Si estás buscando a alguien que aporte energía, una perspectiva fresca y una a
 ![Colaboración](https://img.shields.io/badge/-Colaboraci%C3%B3n-blue)
 ![Proactividad](https://img.shields.io/badge/-Proactividad%C3%B3n-brightgreen)
 ![Resiliencia](https://img.shields.io/badge/-Resiliencia-lightgrey)
+---
