@@ -16,17 +16,18 @@ Si estás buscando a alguien que aporte energía, una perspectiva fresca y una a
 
 #### Lenguajes de Programación
 ![Python](https://img.shields.io/badge/-Python-blue)
-![C](https://img.shields.io/badge/-C-blue)
+![C](https://img.shields.io/badge/-C-red)
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![Bash](https://img.shields.io/badge/-Bash-green)
 
 #### Herramientas y Entornos
 ![Git](https://img.shields.io/badge/-Git-black)
-![Docker](https://img.shields.io/badge/-Docker-blue)
+![Docker](https://img.shields.io/badge/-Docker-lightblue)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-green)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange)
 ![Jupyter Labs](https://img.shields.io/badge/-Jupyter%20Labs-lightgrey)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-purple)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-orange)
 ![Vim](https://img.shields.io/badge/-Vim-brightgreen)
 
