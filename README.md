@@ -1,5 +1,7 @@
 ### ¡Hola, visitante! 👋
 
+![](https://www.pexels.com/es-es/foto/anteojos-de-cultivo-negro-delante-de-la-computadora-portatil-577585/)
+
 Soy un apasionado desarrollador junior con un sólido interés en la ciencia de datos y una habilidad innata para el trabajo en equipo. Mi experiencia en la gestión de proyectos me ha brindado una comprensión única de cómo transformar ideas en realidades tangibles.
 
 🌐 **Trayectoria**: He demostrado mis habilidades de comunicación y colaboración como parte de equipos multidisciplinarios. Esto me permite contribuir de manera efectiva y aprender de mis compañeros. Mi capacidad para adaptarme rápidamente a nuevos desafíos y tecnologías me ha permitido crecer en entornos en constante evolución.
