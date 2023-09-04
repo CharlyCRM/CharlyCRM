@@ -47,5 +47,10 @@ Si estás buscando a alguien que aporte energía, una perspectiva fresca y una a
 ![Proactividad](https://img.shields.io/badge/-Proactividad%C3%B3n-brightgreen)
 ![Resiliencia](https://img.shields.io/badge/-Resiliencia-lightgrey)
 ---
-### Mis estadisticas en Github
+
+### Mis estadisticas en Github:
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=CharlyCRM&show_icons=true&theme=dark)](https://github.com/CharlyCRM/github-readme-stats)
+---
+
+### Contacto:
+![Linkedin Badge](https://img.shields.io/badge/-Carlos_Ramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/carlos-ram%C3%ADrez-mart%C3%ADn-255a54263/)
