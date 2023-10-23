@@ -1,3 +1,5 @@
+
+![Banner Linkedln](https://github.com/CharlyCRM/CharlyCRM/assets/136794111/8d7d2eec-e8e9-4280-99e9-0e2f18f4ae5c)
 ### ¡Hola, visitante! 👋
 
 ![](https://www.pexels.com/es-es/foto/anteojos-de-cultivo-negro-delante-de-la-computadora-portatil-577585/)
