@@ -1,5 +1,5 @@
 
-![Banner Linkedln](https://github.com/CharlyCRM/CharlyCRM/assets/136794111/df580efc-a113-4cdb-be2d-3d0e3beddd05)
+![Banner Linkedln](https://github.com/CharlyCRM/CharlyCRM/assets/136794111/06fd9e4e-97df-4500-a5d9-9154a333af4f)
 
 ### ¡Hola, visitante! 👋
 
