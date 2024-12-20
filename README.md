@@ -1,9 +1,15 @@
+![Banner Linkedln](https://github.com/user-attachments/assets/a1e8dc20-5fc0-4efc-9eae-3c1219b91ae1)
 
-![Banner Linkedln](https://github.com/CharlyCRM/CharlyCRM/assets/136794111/06fd9e4e-97df-4500-a5d9-9154a333af4f)
+<!-- visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/CharlyCRM/count.svg" />
+</p>
 
-### ¡Hola, visitante! 👋
+<!-- welcome message -->
+### ¡Hola, visitante! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
- Soy un apasionado 𝗖𝗶𝗲𝗻𝘁í𝗳𝗶𝗰𝗼 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀 𝗝𝘂𝗻𝗶𝗼𝗿 con sólidos conocimientos en ciencia de datos, respaldados por mi 𝗴𝗿𝗮𝗱𝘂𝗮𝗰𝗶𝗼́𝗻 𝗲𝗻 𝗔𝗿𝗾𝘂𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗮 𝗱𝗲 𝗕𝗶𝗴 𝗗𝗮𝘁𝗮 𝘆 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, así como en 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗰𝗶𝗼́𝗻 𝗲𝗻 𝗣𝘆𝘁𝗵𝗼𝗻 en la dinstinguida 𝗧𝗼𝗸𝗶𝗼 𝗡𝗲𝘄 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗦𝗰𝗵𝗼𝗼𝗹. Esta institución, reconocida con más de media docena de premios, avalada por empresas líderes como IBM, GitHub, AWS y acreditada por la UCAM, Universidad Católica de Murcia, ha sido el escenario donde he cultivado mis habilidades.⁣
+<!-- About me -->
+Soy un apasionado 𝗖𝗶𝗲𝗻𝘁í𝗳𝗶𝗰𝗼 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀 𝗝𝘂𝗻𝗶𝗼𝗿 con sólidos conocimientos en ciencia de datos, respaldados por mi 𝗴𝗿𝗮𝗱𝘂𝗮𝗰𝗶𝗼́𝗻 𝗲𝗻 𝗔𝗿𝗾𝘂𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗮 𝗱𝗲 𝗕𝗶𝗴 𝗗𝗮𝘁𝗮 𝘆 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, así como en 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗰𝗶𝗼́𝗻 𝗲𝗻 𝗣𝘆𝘁𝗵𝗼𝗻 en la dinstinguida 𝗧𝗼𝗸𝗶𝗼 𝗡𝗲𝘄 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗦𝗰𝗵𝗼𝗼𝗹. Esta institución, reconocida con más de media docena de premios, avalada por empresas líderes como IBM, GitHub, AWS y acreditada por la UCAM, Universidad Católica de Murcia, ha sido el escenario donde he cultivado mis habilidades.⁣
 
 
 ⁣
@@ -62,3 +68,6 @@ Esta diversidad de habilidades me permite abordar proyectos desde múltiples per
 
 ### Mis estadisticas en Github:
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=CharlyCRM&show_icons=true&theme=dark)](https://github.com/CharlyCRM/github-readme-stats)
+<p align = "center">
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
