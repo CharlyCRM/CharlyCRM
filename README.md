@@ -1,4 +1,5 @@
-![Banner Linkedln](https://github.com/user-attachments/assets/a1e8dc20-5fc0-4efc-9eae-3c1219b91ae1)
+<!-- banner -->
+![Banner Linkedln](https://github.com/user-attachments/assets/5a88b512-0d4a-492d-b2ab-6a4c06d8e10f)
 
 <!-- visitor counter -->
 <p align="center"> 
@@ -33,7 +34,7 @@ Esta diversidad de habilidades me permite abordar proyectos desde múltiples per
 𝘚𝘪𝘦𝘮𝑝𝘳𝘦 𝘦𝘯 𝘣𝘶𝘴𝘤𝘢 𝘥𝘦 𝘰𝑝𝘰𝘳𝘵𝘶𝘯𝘪𝘥𝘢𝘥𝘦𝘴 𝑝𝘢𝘳𝘢 𝘤𝘳𝘦𝘤𝘦𝘳 𝘺 𝘭𝘪𝘴𝘵𝘰 𝑝𝘢𝘳𝘢 𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘪𝘳 𝘴𝘪𝘨𝘯𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘷𝘢𝘮𝘦𝘯𝘵𝘦 𝘢 𝑝𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴 𝘢𝘮𝘣𝘪𝘤𝘪𝘰𝘴𝘰𝘴 𝘺 𝘥𝘪𝘯𝘢́𝘮𝘪𝘤𝘰𝘴. 📊🎓
 
 
-
+<!-- Skill and tools -->
 ### Habilidades y Herramientas
 
 #### Lenguajes de Programación:
