@@ -1,31 +1,68 @@
-# Carlos Ramírez Martín
+<p align="center">
+  <a href="https://carlos-ramirez-martin.up.railway.app/es/">
+    <img src="assets/profile-header.svg" alt="Carlos Ramírez Martín · Full-Stack AI Engineer · Data Science, Machine Learning y Generative AI" width="100%">
+  </a>
+</p>
 
-Full-Stack AI Engineer · Data Science & Machine Learning · Generative AI
+<p align="center">
+  <a href="https://carlos-ramirez-martin.up.railway.app/es/"><img src="https://img.shields.io/badge/Portfolio-Explora_mi_trabajo-39d5d1?style=for-the-badge&amp;labelColor=101a2a" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/carlosramirezmartin/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&amp;labelColor=101a2a" alt="LinkedIn"></a>
+  <a href="https://scrummanager.com/website/c/profile/member.php?id=44965"><img src="https://img.shields.io/badge/Scrum_Manager-Credenciales-b5a0ff?style=for-the-badge&amp;labelColor=101a2a" alt="Credenciales de Scrum Manager"></a>
+</p>
 
-Combino ciencia de datos, experiencia de negocio e ingeniería de IA para convertir información en sistemas útiles. Mi recorrido pasa por el análisis de datos, la previsión de demanda y la gestión de proyectos, y hoy también por la construcción de aplicaciones basadas en modelos fundacionales.
+## Ciencia de datos con perspectiva de negocio
 
-Mi formación reúne ciencia de datos en la UOC, Big Data y machine learning en Tokio School, Python y metodologías ágiles. Me interesan especialmente el prompt engineering, los sistemas RAG y cómo conectar modelos, datos e interfaces para resolver problemas concretos.
+Soy Carlos Ramírez Martín, **Full-Stack AI Engineer**. Trabajo en la conexión entre datos, modelos y aplicaciones, con una trayectoria que combina análisis de datos, previsión de demanda y gestión de proyectos. Esa experiencia me ha enseñado a empezar por el problema que queremos resolver, no por la herramienta.
 
-[Portfolio y demos](https://carlos-ramirez-martin.up.railway.app/es/) · [LinkedIn](https://www.linkedin.com/in/carlosramirezmartin/) · [Credenciales de Scrum Manager](https://scrummanager.com/website/c/profile/member.php?id=44965) · [Contacto](mailto:charlycrm@hotmail.com)
+Mi enfoque une **ciencia de datos y machine learning** con el desarrollo de aplicaciones basadas en modelos fundacionales. Exploro el **prompt engineering, los sistemas RAG y la IA generativa**, prestando atención a cómo se evalúan los resultados y cómo llegan al usuario.
 
-## Por dónde empezar
+### 🧰 Datos, desarrollo e IA
 
-Estos repositorios muestran mejor el tipo de trabajo que desarrollo ahora:
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-334155?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&amp;logo=r&amp;logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&amp;logo=apachespark&amp;logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square" alt="IA generativa">
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG">
+</p>
 
-- [Del patrón al modelo](https://github.com/CharlyCRM/multivariate-lab): aplicación en R y Shiny para explorar variables, descubrir grupos y comparar modelos de predicción.
-- [Una flota en movimiento](https://github.com/CharlyCRM/mobility-markov-simulator): simulador para estudiar movilidad, averías y mantenimiento con cadenas de Markov.
-- [Anticipar la demanda](https://github.com/CharlyCRM/demand-forecasting): predicción horaria de alquileres y escenarios meteorológicos interactivos.
-- [Detectar lo inesperado](https://github.com/CharlyCRM/anomaly-monitor): comparación de detectores de anomalías en una serie de temperatura.
-- [Respuestas con evidencia](https://github.com/CharlyCRM/document-rag-lab): laboratorio local de recuperación documental y generación con referencias.
+## 🚀 Proyectos para explorar
 
-Las cuatro primeras aplicaciones se pueden abrir desde el portfolio. El laboratorio RAG se ejecuta en local; no tiene demo pública.
+<p>
+  <a href="https://github.com/CharlyCRM/multivariate-lab"><img src="assets/project-multivariate.svg" alt="Del patrón al modelo: exploración multivariante y predicción con R y Shiny" width="420"></a>
+  <a href="https://github.com/CharlyCRM/mobility-markov-simulator"><img src="assets/project-markov.svg" alt="Una flota en movimiento: simulación de movilidad y mantenimiento" width="420"></a>
+</p>
+<p>
+  <a href="https://github.com/CharlyCRM/demand-forecasting"><img src="assets/project-demand.svg" alt="Anticipar la demanda: predicción horaria y escenarios meteorológicos" width="420"></a>
+  <a href="https://github.com/CharlyCRM/anomaly-monitor"><img src="assets/project-anomaly.svg" alt="Detectar lo inesperado: comparación de detectores de anomalías" width="420"></a>
+</p>
 
-## De dónde viene este trabajo
+**Las cuatro aplicaciones se pueden probar desde [mi portfolio](https://carlos-ramirez-martin.up.railway.app/es/#projects).** Sus repositorios incluyen instrucciones, pruebas y las limitaciones de cada experimento.
 
-También conservo proyectos de mi formación: [el proyecto final de Big Data](https://github.com/CharlyCRM/Proyecto_Final_Master_Big_Data), [análisis con Spark](https://github.com/CharlyCRM/Analisis_Datos_Spark), [cuadernos de machine learning](https://github.com/CharlyCRM/Kaggle_Competitions) y ejercicios de Python, Flask, SQLAlchemy y C.
+También desarrollo [**Respuestas con evidencia**](https://github.com/CharlyCRM/document-rag-lab), un laboratorio RAG local para recuperar documentos, generar respuestas con referencias y revisar la relación entre una respuesta y sus fuentes. Este proyecto no tiene demo pública.
 
-Sus README distinguen los trabajos académicos y las prácticas de los proyectos actuales. Los mantengo como parte de mi recorrido: muestran cómo fui aprendiendo a trabajar con datos, construir aplicaciones y organizar el código.
+## 🎓 Formación y recorrido
 
-## Cómo entiendo un proyecto
+Mi formación combina ciencia de datos en la **UOC**, Big Data y machine learning en **Tokio School**, Python y metodologías ágiles. Las [credenciales de Scrum Manager](https://scrummanager.com/website/c/profile/member.php?id=44965) complementan esa base técnica con una mirada de equipo y gestión.
 
-Me importa explicar tanto lo que una solución consigue como lo que todavía no puede demostrar. En los proyectos recientes encontrarás instrucciones de ejecución, pruebas y límites de evaluación, además del código. Busco que quien los revise pueda entender las decisiones y contrastar los resultados.
+En GitHub también conservo trabajos académicos y prácticas de Python, Flask, SQLAlchemy y C. Son parte de mi recorrido, diferenciados de los proyectos actuales para que puedas elegir qué revisar.
+
+<details>
+<summary><strong>Ver proyectos de formación y primeras prácticas</strong></summary>
+
+- [Proyecto final de Big Data](https://github.com/CharlyCRM/Proyecto_Final_Master_Big_Data): análisis de pasajeros con PySpark y documentación de Cassandra.
+- [Análisis con Spark](https://github.com/CharlyCRM/Analisis_Datos_Spark): cuadernos de exploración y estadística.
+- [Cuadernos de machine learning](https://github.com/CharlyCRM/Kaggle_Competitions): ejercicios de vivienda y Titanic.
+- [Prácticas de Python](https://github.com/CharlyCRM/ejercicios_practica) y [fundamentos de C](https://github.com/CharlyCRM/42Barcelona).
+
+</details>
+
+---
+
+### 🤝 Hablemos
+
+Si quieres conocer mi trabajo o conversar sobre datos e IA, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/carlosramirezmartin/) o escribirme a **[charlycrm@hotmail.com](mailto:charlycrm@hotmail.com)**.

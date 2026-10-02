@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Carlos Ramírez Martín — Full-Stack AI Engineer</title>
+  <desc id="desc">Ciencia de datos, machine learning e IA generativa. Cabecera con una red de nodos y un gráfico de señales.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b2d"/><stop offset="1" stop-color="#080d16"/></linearGradient>
+    <linearGradient id="signal"><stop stop-color="#39d5d1"/><stop offset="1" stop-color="#b6a0ff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8aa4c0" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+  <path d="M54 50h34" stroke="#39d5d1" stroke-width="3"/>
+  <text x="101" y="55" fill="#9cafc5" font-family="Arial, sans-serif" font-size="13" letter-spacing="3">PERSONAS · DATOS · SISTEMAS</text>
+  <text x="54" y="137" fill="#f0f5fc" font-family="Arial, sans-serif" font-size="53" font-weight="700" letter-spacing="-1.5">Carlos Ramírez Martín</text>
+  <text x="57" y="184" fill="#51dfda" font-family="Arial, sans-serif" font-size="25">Full-Stack AI Engineer</text>
+  <text x="57" y="223" fill="#aebfd2" font-family="Arial, sans-serif" font-size="19">Data Science &amp; Machine Learning · Generative AI</text>
+  <rect x="54" y="273" width="388" height="38" rx="19" fill="#183038" stroke="#39d5d1" stroke-opacity=".28"/>
+  <text x="75" y="297" fill="#c3eeee" font-family="Arial, sans-serif" font-size="14">Del análisis a las aplicaciones que podemos usar.</text>
+  <g stroke="url(#signal)" stroke-opacity=".32" fill="none" stroke-width="1.5">
+    <path d="M886 94L981 57L1067 105L1150 62M886 94L979 172L1067 105L1165 186M870 250L979 172L1075 264L1165 186M981 57L979 172L1067 105L1075 264M1150 62L1165 186L1230 253"/>
+    <path d="M836 94H1245M836 172H1245M836 250H1245" stroke="#94b2cd" stroke-opacity=".12"/>
+  </g>
+  <g fill="#39d5d1"><circle cx="886" cy="94" r="7"/><circle cx="979" cy="172" r="9"/><circle cx="870" cy="250" r="5"/><circle cx="981" cy="57" r="5"/></g>
+  <g fill="#b6a0ff"><circle cx="1067" cy="105" r="8"/><circle cx="1150" cy="62" r="5"/><circle cx="1165" cy="186" r="7"/><circle cx="1075" cy="264" r="5"/><circle cx="1230" cy="253" r="5"/></g>
+  <circle cx="979" cy="172" r="23" fill="none" stroke="#39d5d1" stroke-opacity=".25"/>
+  <path d="M839 319L876 304L904 310L943 286L978 298L1015 278L1054 283L1090 250L1126 266L1167 239L1226 230" fill="none" stroke="url(#signal)" stroke-width="2.5"/>
+  <rect x="1" y="1" width="1278" height="358" rx="19" fill="none" stroke="#89a7c3" stroke-opacity=".17"/>
+</svg>
