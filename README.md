@@ -65,4 +65,4 @@ En GitHub también conservo trabajos académicos y prácticas de Python, Flask, 
 
 ### 🤝 Hablemos
 
-Si quieres conocer mi trabajo o conversar sobre datos e IA, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/carlosramirezmartin/) o escribirme a **[charlycrm@hotmail.com](mailto:charlycrm@hotmail.com)**.
+Si quieres conocer mi trabajo o conversar sobre datos e IA, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/carlosramirezmartin/)
